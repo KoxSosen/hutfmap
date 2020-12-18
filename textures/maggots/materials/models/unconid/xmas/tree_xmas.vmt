@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$baseTexture" "models/unconid/xmas/Tree_xmas"
-	"$alphatest" 1
-	"$nocull" 1	
-}
