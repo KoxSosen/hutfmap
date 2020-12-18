@@ -1,9 +1,8 @@
-# Trade Map for HungaryTF
+# HungaryTF TradeMap
 
-Server ip: hu.tf:44444
+Contibutors:
+  - Simon
+  - Stipo
+  - Maggots
 
-Contributors:
-
-@stipo
-@maggots
-@KoxSosen
+A mapot itt szedheted le: [https://github.com/KoxSosen/hutfmap/releases/]
