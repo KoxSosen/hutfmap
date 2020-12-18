@@ -1,5 +1,9 @@
-# hutfmap
-Map for @Hungarytf.
+# Trade Map for HungaryTF
 
+Server ip: hu.tf:44444
 
-Yea ide kéne valami fancy kép, artistok hello
+Contributors:
+
+@stipo
+@maggots
+@KoxSosen
